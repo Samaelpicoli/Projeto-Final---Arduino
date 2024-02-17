@@ -7,6 +7,9 @@ O projeto foi feito com o aprendizado que tivemos durante as aulas com o Arduino
 
 Os componentes do Arduino utilizado foram: Keypad, 1 led Vermelho, 1 led Verde, 1 servo, 1 cabo Ethernet para conexão de internet.
 As libs usadas para o projeto foram: 
+
 #include <Keypad.h>  
+
 #include <Servo.h>
+
 #include <Ethernet.h>
